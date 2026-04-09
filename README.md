@@ -2,8 +2,9 @@
 # Technical Writing Portfolio for Galen Scott
 
 - Clear, task-focused user guides
-- API-adjacent and reference documentation
+- Difinitive How-to documentation
 - Process and workflow documentation in Agile environments
+- Research notes, articles, and documentation
 - Developmental and line editing
 
 Use the navigation above, or jump directly to:
