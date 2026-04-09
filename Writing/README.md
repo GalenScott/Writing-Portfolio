@@ -14,3 +14,6 @@ This section includes some examples of guest blog posts, research articles and c
 - Youthful Whispers:  Poetry of a young child. Published in 2024
 - Whispers in Twilight: Poetry Anthology, Upcoming Publication Date June 2026
 - "I see you with my hands", Poem, Published in Kaleidescope Magazine
+
+## **Editing**
+- Blog posts on Editing
