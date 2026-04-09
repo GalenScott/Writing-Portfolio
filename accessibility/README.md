@@ -23,7 +23,7 @@ This work established a repeatable, scalable foundation for accessibility across
 ## Documents for this Project
 - <a href="Accessibility Brainstorming.pdf" class="image fit">Accessibility Brainstorming Whiteboard</A>
 - [Accessibility (A11y) Project Summary](a11y-project.md) (example based on internal Confluence docs)
-- <a href="2025 Accessibility v.1.2_LD.pdf" class="image fit">Accessibility (A11y) Presentation</a>
+- <a href="2026 Accessibility v.1.3.pdf" class="image fit">Accessibility (A11y) Presentation</a>
 - Accessibility for Product Owners (TBD)
 
 
