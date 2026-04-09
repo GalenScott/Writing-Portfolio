@@ -53,8 +53,8 @@ These documents ensure consistency and alignment across teams.
 
 This repository may also include examples of:
 
-- Policies and procedures  
-- Demo walkthroughs  
+- Demo walkthroughs
+* [Policies & Procedures Demo Notes](/samples/policies-procedures-demo-guide.md)
 - Process Documentation  
 - Onboarding or training materials  
 
