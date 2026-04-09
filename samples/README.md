@@ -15,14 +15,17 @@ User Guides provide step-by-step instructions to help end users understand and o
 These guides focus on clarity, accessibility, and user success.
 
 ---
-##  How-To and Education
+##  Tutorials, How-Tos and Education documentation
 
-User Guides provide step-by-step instructions to help end users understand and operate a product, feature, or workflow.
+Tutorials (User Guides) provide indepth instructions to help end users understand and operate a product, feature, or workflow by taking them through the process
+
+How-To Guides provide direct approach to the information, using step-by-step directions and assumption of familiarity with the subject.
 
 - Topical Record Review
 - Policies & Procedures Review
 - [Accessibility Project](/accessibility/README.md)
   * [Testing Guides & Key Concepts](A11y_Testing_Key_Concepts.md)
+- [How to Use Zendesk for Customers](samples/ZD-multistructure/README.md) (streamlined example to show multi-page doc structure in GitHub)
 
 These guides focus on clarity, accessibility, and user success.
 
