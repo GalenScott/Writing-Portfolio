@@ -9,7 +9,7 @@ This repository showcases a curated collection of technical documentation sample
 
 User Guides provide step-by-step instructions to help end users understand and operate a product, feature, or workflow.
 
-- <a href="samples/SLC User Guide.pdf">Student Level Corrections</a>
+- <a href="SLC User Guide.pdf">Student Level Corrections</a>
 - Policies & Procedures Review
 
 These guides focus on clarity, accessibility, and user success.
@@ -23,9 +23,9 @@ How-To Guides provide direct approach to the information, using step-by-step dir
 
 - Topical Record Review
 - Policies & Procedures Review
-- [Accessibility Project](/accessibility/README.md)
-  * [Testing Guides & Key Concepts](A11y_Testing_Key_Concepts.md)
-- [How to Use Zendesk for Customers](../samples/ZD-multistructure/README.md) (streamlined example to show multi-page doc structure in GitHub)
+- [Accessibility Project](../accessibility/README.md)
+  * [Testing Guides & Key Concepts](../accessibility/A11y_Testing_Key_Concepts.md)
+- [How to Use Zendesk for Customers](ZD-multistructure/README.md) (streamlined example to show multi-page doc structure in GitHub)
 
 These guides focus on clarity, accessibility, and user success.
 
@@ -67,7 +67,7 @@ These documents ensure consistency and alignment across teams.
 This repository may also include examples of:
 
 - Demo walkthroughs
-  * [Policies & Procedures Demo Notes](/samples/policies-procedures-demo-guide.md)
+  * [Policies & Procedures Demo Notes](policies-procedures-demo-guide.md)
 - Process Documentation  
 - Onboarding or training materials  
 
