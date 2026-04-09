@@ -120,7 +120,7 @@ The deck includes a dedicated section explaining:
 
 ---
 
-## 🛠️ Deliverables Created
+## Deliverables Created
 
 As part of this initiative, the following were produced:
 
@@ -134,7 +134,7 @@ As part of this initiative, the following were produced:
 
 ---
 
-## 🧭 High‑Level Workflow (Play‑By‑Play)
+## High‑Level Workflow (Play‑By‑Play)
 
 1. Evaluate needs  
 2. Estimate scope  
@@ -148,15 +148,7 @@ As part of this initiative, the following were produced:
 10. UAT  
 11. Production push  
 
----
 
-## 📚 Appendices Included in the Presentation
-
-- **Appendix A:** Accessibility Toolbox  
-- **Appendix B:** Tool Tutorials  
-- **Appendix C:** Helpful Accessibility Resources (WCAG, ARIA, W3C guides)  
-
----
 
 ## 🏁 Summary
 
