@@ -9,7 +9,7 @@ This repository showcases a curated collection of technical documentation sample
 
 User Guides provide step-by-step instructions to help end users understand and operate a product, feature, or workflow.
 
-- Topical Record Review
+- <a href="samples/SLC User Guide.pdf">Student Level Corrections</a>
 - Policies & Procedures Review
 
 These guides focus on clarity, accessibility, and user success.
