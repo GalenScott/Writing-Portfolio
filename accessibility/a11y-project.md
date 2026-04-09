@@ -163,22 +163,3 @@ As part of this initiative, the following were produced:
 
 This initiative established a unified, repeatable, and scalable approach to accessibility across the company. By educating teams, standardizing tools, and aligning processes, Level Data is now better equipped to maintain WCAG compliance, improve user experience, and support customers who require accessible digital products.
 
----
-
-## 📄 Repository Contents
-
-- `/presentation/` – Slide deck source files  
-- `/guides/` – Testing guides, tool references, and process docs  
-- `/vpat/` – VPAT preparation materials  
-- `/resources/` – Links and reference materials  
-
----
-
-If you’d like, I can also generate:
-
-- A shorter README  
-- A more formal corporate‑tone version  
-- A version tailored for a public portfolio  
-- A version highlighting *your* role more explicitly (Scrum Master, Technical Writer, initiative lead)
-
-Just tell me the style you want.
