@@ -4,7 +4,7 @@ This guide provides a clear, structured walkthrough of the **Policies and Proced
 
 ---
 
-## 📘 Overview
+## Overview
 
 The **Policies and Procedures Compliance Workflow** ensures alignment with IDEA requirements by guiding users through policy review, findings management, and correction activities.
 
@@ -19,7 +19,7 @@ The **Policies and Procedures Compliance Workflow** ensures alignment with IDEA 
 
 ---
 
-## 🚪 Accessing the Workflow
+## Accessing the Workflow
 
 1. Navigate to **My Work → Tasks**  
 2. Locate and open the **Policies and Procedures Review** task  
@@ -28,7 +28,7 @@ The **Policies and Procedures Compliance Workflow** ensures alignment with IDEA 
 
 ---
 
-## 📝 Performing the Review
+## Performing the Review
 
 ### 🔹 Assigning and Starting
 - Assign the review to yourself to become the **Team Leader**, or delegate to designate a **Team Member**  
@@ -48,7 +48,7 @@ For any non-compliant or non-applicable response, a **comment explaining the rat
 
 ---
 
-## 🗂 Managing Findings
+## Managing Findings
 
 On the **Summary** page:
 - View all non-compliant items organized by category and legal citation  
@@ -57,7 +57,7 @@ On the **Summary** page:
 
 ---
 
-## 🧑‍💼 Program Manager Review
+## Program Manager Review
 
 Program Managers access a **Policies and Procedures Getting Started** task to review submitted findings.
 
@@ -68,7 +68,7 @@ They can:
 
 ---
 
-## ✅ Finalizing and Next Steps
+## Finalizing and Next Steps
 
 Once correction activities are drafted:
 - Mark them as **Complete** to notify the district  
@@ -76,7 +76,7 @@ Once correction activities are drafted:
 
 ---
 
-## ⭐ Best Practices
+## Best Practices
 
 - Answer every compliance question thoroughly and accurately  
 - Provide detailed comments to justify non-compliant designations  
