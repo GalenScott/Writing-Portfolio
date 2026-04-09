@@ -30,6 +30,23 @@ How-To Guides provide direct approach to the information, using step-by-step dir
 These guides focus on clarity, accessibility, and user success.
 
 ---
+## Source of Truth (SoT) Documents
+
+Source of Truth documents serve as the authoritative reference for a process, system, or dataset.
+- <a href="Product_SourceofTruth_Template.doc.pdf">Source of Truth Template</a>
+- <a href="Product Executive Summary Template.pdf">Executive Summary Template</a>
+- Mock-up Source of Truth and Executive Summary
+
+**Common elements include:**
+- Definitions and terminology  
+- Ownership and governance  
+- Data or process lineage  
+- Versioning and change history  
+- Links to related documentation  
+
+These documents ensure consistency and alignment across teams.
+
+---
 ##  High-Level Workflow Overviews
 
 High-Level Overviews explain how a system, process, or workflow functions from an architectural or operational perspective.
@@ -47,20 +64,7 @@ These overviews help stakeholders quickly understand how a workflow operates wit
 
 ---
 
-## Source of Truth (SoT) Documents
 
-Source of Truth documents serve as the authoritative reference for a process, system, or dataset.
-
-**Common elements include:**
-- Definitions and terminology  
-- Ownership and governance  
-- Data or process lineage  
-- Versioning and change history  
-- Links to related documentation  
-
-These documents ensure consistency and alignment across teams.
-
----
 
 ## Additional Documentation Types
 
