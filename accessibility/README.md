@@ -25,5 +25,5 @@ This work established a repeatable, scalable foundation for accessibility across
 - [Accessibility (A11y) Project Summary](accessibility/a11y-project.md) (example based on internal Confluence docs)
 - <a href="accessibility/2025 Accessibility v.1.2_LD.pdf" class="image fit">Accessibility (A11y) Presentation</a>
 - Accessibility for Product Owners (TBD)
-- 
+
 
