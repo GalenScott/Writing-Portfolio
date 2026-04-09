@@ -1,19 +1,12 @@
 
 # Writing Portfolio for Galen Scott
 
-## Technical Writing
+## [Technical Writing](/samples/README.md)
 
 - Clear, task-focused user guides
 - Difinitive How-to documentation
 - Process and workflow documentation in Agile environments
 - Research notes, articles, and documentation
-- Developmental and line editing
-
-Use the navigation above, or jump directly to:
-
-- [Technical Documenation Sample](/samples/README.md)
-- [Process Documentation](/samples/process-docs)
-- [Editing Sample](/samples/editing-samples)
 
 **Accessibility Documentation Initiative**
 
@@ -37,3 +30,6 @@ I focus on:
 - Historical research articles & publications
 - Educational Blog articles
 - Publications
+
+## Editing
+- Developmental and line editing
