@@ -16,4 +16,4 @@ This section includes some examples of guest blog posts, research articles and c
 - "I see you with my hands", Poem, Published in Kaleidescope Magazine
 
 ## **Editing**
-- Blog posts on Editing
+- <a href="/WWriting/Blog Posts_pre2026.pdf">Blog posts on Editing</a>
