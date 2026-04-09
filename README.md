@@ -9,10 +9,9 @@
 
 Use the navigation above, or jump directly to:
 
-- [User Guide Sample](/samples/user-guide)
-- [API/Reference Sample](/samples/api-reference)
-- [Process Documentation](/samples/process-doc)
-- [Editing Sample](/samples/editing-sample)
+- [User Guide Sample](/samples/user-guides)
+- [Process Documentation](/samples/process-docs)
+- [Editing Sample](/samples/editing-samples)
 
 ## There are also folders for special projects
 - Accessiblity documentation
