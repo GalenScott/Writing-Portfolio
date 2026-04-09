@@ -21,9 +21,9 @@ The primary goal of this project was to build shared understanding, consistency,
 This work established a repeatable, scalable foundation for accessibility across the entire product suite.
 
 ## Documents for this Project
-- <a href="accessibility/Accessibility Brainstorming.pdf" class="image fit">Accessibility Brainstorming Whiteboard</A>
-- [Accessibility (A11y) Project Summary](accessibility/a11y-project.md) (example based on internal Confluence docs)
-- <a href="accessibility/2025 Accessibility v.1.2_LD.pdf" class="image fit">Accessibility (A11y) Presentation</a>
+- <a href="Accessibility Brainstorming.pdf" class="image fit">Accessibility Brainstorming Whiteboard</A>
+- [Accessibility (A11y) Project Summary](a11y-project.md) (example based on internal Confluence docs)
+- <a href="2025 Accessibility v.1.2_LD.pdf" class="image fit">Accessibility (A11y) Presentation</a>
 - Accessibility for Product Owners (TBD)
 
 
