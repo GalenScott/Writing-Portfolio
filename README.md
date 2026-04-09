@@ -13,8 +13,6 @@ Use the navigation above, or jump directly to:
 - [Process Documentation](/samples/process-docs)
 - [Editing Sample](/samples/editing-samples)
 
-## There are also folders for special projects
-- Accessiblity documentation
 
 ## About My Approach
 
