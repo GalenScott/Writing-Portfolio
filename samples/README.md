@@ -25,7 +25,7 @@ How-To Guides provide direct approach to the information, using step-by-step dir
 - Policies & Procedures Review
 - [Accessibility Project](/accessibility/README.md)
   * [Testing Guides & Key Concepts](A11y_Testing_Key_Concepts.md)
-- [How to Use Zendesk for Customers](samples/ZD-multistructure/README.md) (streamlined example to show multi-page doc structure in GitHub)
+- [How to Use Zendesk for Customers](../samples/ZD-multistructure/README.md) (streamlined example to show multi-page doc structure in GitHub)
 
 These guides focus on clarity, accessibility, and user success.
 
