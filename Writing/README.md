@@ -6,7 +6,7 @@ This section includes some examples of guest blog posts, research articles and c
 - TBD
 
 ## **Historical Research and Education**
-- <a href="/Writing/Exerpt Dr. Angelou Guest Blog Post 2021 - Galen Scott.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">Maya Angelou Guest Blog Exerpt</a>
+- <a href="/Writing/Exerpt Dr. Angelou Guest Blog Post 2021 - Galen Scott.pdf" class="image fit">Maya Angelou Guest Blog Exerpt</a>
 - Holidays Around the World teaching articles
 - Heian Japanese Research
 
