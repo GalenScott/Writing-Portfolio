@@ -103,8 +103,7 @@ The presentation standardizes how to document and track accessibility issues:
 - Ticket creation and Epic structure  
 - QA validation and UAT flow  
 
-> “Tickets should contain links to the relevant WCAG Success Criteria… and other relevant resources.”  
-> *(from the attached document)*
+> Tickets should contain links to the relevant WCAG Success Criteria… and other relevant resources.
 
 ---
 
