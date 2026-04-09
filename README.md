@@ -1,10 +1,25 @@
+
 # Technical Writing Portfolio for Galen Scott
-## This repository is organized by type of work and stored in specific folders for each type.
-- User Guides
-- Editor Blog Post
-- Research Documents
-- How-to Guides
-- Workflow documentation
+
+- Clear, task-focused user guides
+- API-adjacent and reference documentation
+- Process and workflow documentation in Agile environments
+- Developmental and line editing
+
+Use the navigation above, or jump directly to:
+
+- [User Guide Sample](/samples/user-guide)
+- [API/Reference Sample](/samples/api-reference)
+- [Process Documentation](/samples/process-doc)
+- [Editing Sample](/samples/editing-sample)
 
 ## There are also folders for special projects
 - Accessiblity documentation
+
+## About My Approach
+
+I focus on:
+
+- **Clarity:** Reducing cognitive load with structure, headings, and consistent terminology  
+- **Collaboration:** Working closely with engineers, product, and QA  
+- **Iteration:** Treating docs as living artifacts that evolve with the product  
