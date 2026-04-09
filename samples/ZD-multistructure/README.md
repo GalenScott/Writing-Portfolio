@@ -18,4 +18,3 @@ Use the navigation links to explore each topic.
 - [Submitting Requests](submitting-requests.md)
 - [Ticket Status](ticket-status.md)
 - [Escalation & Next Steps](escalation-and-next-steps.md)
-- [Support Access Requirements](support-access.md)
