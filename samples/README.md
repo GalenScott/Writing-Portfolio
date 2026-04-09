@@ -22,6 +22,7 @@ User Guides provide step-by-step instructions to help end users understand and o
 - Topical Record Review
 - Policies & Procedures Review
 - [Accessibility Project](/accessibility/README.md)
+  * [Testing Guides & Key Concepts](A11y_Testing_Key_Concepts.md)
 
 These guides focus on clarity, accessibility, and user success.
 
