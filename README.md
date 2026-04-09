@@ -9,7 +9,7 @@
 
 Use the navigation above, or jump directly to:
 
-- [User Guide Sample](/samples/user-guides)
+- [User Guide Sample]
 - [Process Documentation](/samples/process-docs)
 - [Editing Sample](/samples/editing-samples)
 
