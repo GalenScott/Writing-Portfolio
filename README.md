@@ -9,9 +9,16 @@
 
 Use the navigation above, or jump directly to:
 
-- [User Guide Sample]
+- [Technical Documenation Sample](/samples/README.md)
 - [Process Documentation](/samples/process-docs)
 - [Editing Sample](/samples/editing-samples)
+
+**Accessibility Documentation Initiative**
+
+This was an initiative to research, design, and deliver a company‑wide Accessibility Presentation and testing framework. The initiative was created to increase organizational alignment around accessibility standards, improve product quality, and ensure all Level Data products meet or exceed WCAG 2.1 and 2.2 guidelines.
+
+A sample of documents and the presentation area available, however the Confluane network of documentation is not available to share outside of Level Data.
+- [Accessibility Project Overview](accessibility/README.md)
 
 
 ## About My Approach
