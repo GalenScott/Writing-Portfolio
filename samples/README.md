@@ -9,20 +9,29 @@ This repository showcases a curated collection of technical documentation sample
 
 User Guides provide step-by-step instructions to help end users understand and operate a product, feature, or workflow.
 
-**Included examples may cover:**
-- Feature walkthroughs  
-- Task-based instructions  
-- Troubleshooting steps  
-- UI explanations  
-- Best practices and tips  
+- Topical Record Review
+- Policies & Procedures Review
 
 These guides focus on clarity, accessibility, and user success.
 
 ---
+##  How-To and Education
 
+User Guides provide step-by-step instructions to help end users understand and operate a product, feature, or workflow.
+
+- Topical Record Review
+- Policies & Procedures Review
+- [Accessibility Project](/accessibility/README.md)
+
+These guides focus on clarity, accessibility, and user success.
+
+---
 ##  High-Level Workflow Overviews
 
 High-Level Overviews explain how a system, process, or workflow functions from an architectural or operational perspective.
+
+- Topical Record Review
+- Policies & Procedures Review
 
 **These documents may include:**
 - Key components and roles  
@@ -54,7 +63,7 @@ These documents ensure consistency and alignment across teams.
 This repository may also include examples of:
 
 - Demo walkthroughs
-* [Policies & Procedures Demo Notes](/samples/policies-procedures-demo-guide.md)
+  * [Policies & Procedures Demo Notes](/samples/policies-procedures-demo-guide.md)
 - Process Documentation  
 - Onboarding or training materials  
 
