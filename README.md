@@ -1,5 +1,7 @@
 
-# Technical Writing Portfolio for Galen Scott
+# Writing Portfolio for Galen Scott
+
+## Technical Writing
 
 - Clear, task-focused user guides
 - Difinitive How-to documentation
@@ -20,11 +22,18 @@ This was an initiative to research, design, and deliver a company‑wide Accessi
 A sample of documents and the presentation area available, however the Confluane network of documentation is not available to share outside of Level Data.
 - [Accessibility Project Overview](accessibility/README.md)
 
-
-## About My Approach
+### About My Approach
 
 I focus on:
 
 - **Clarity:** Reducing cognitive load with structure, headings, and consistent terminology  
 - **Collaboration:** Working closely with engineers, product, and QA  
-- **Iteration:** Treating docs as living artifacts that evolve with the product  
+- **Iteration:** Treating docs as living artifacts that evolve with the product
+
+---
+## [Creative and Historical Writing](Writing)
+
+- Creative Writing Exerpts
+- Historical research articles & publications
+- Educational Blog articles
+- Publications
