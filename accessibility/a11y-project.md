@@ -1,5 +1,5 @@
 # Accessibility (A11y) Project Summary
-## 🚀 Project Overview
+## Project Overview
 
 As the Product Owner and Technical Writer, I partnered with our QA Accessibility Subject Matter Expert (SME) to gather, validate, and organize all information required to educate the company on accessibility expectations and testing workflows.
 
@@ -12,7 +12,7 @@ Together, we:
 - Transformed the full body of research into structured, easy‑to‑navigate Confluence documentation  
 
 ---
-## 🧩 What This Presentation Covers
+## What This Presentation Covers
 
 ### **1. Accessibility Tools Overview**
 A curated set of tools used for manual and automated testing, including:
