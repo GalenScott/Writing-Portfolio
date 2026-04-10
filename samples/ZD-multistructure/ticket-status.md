@@ -15,10 +15,9 @@ Support needs additional information from you.
 Follow-up schedule:
 
 - Reminder after **1 business day**  
-- Second reminder after **4 business days**  
-- Ticket closes after **8 business days** with no response  
-- You have **7 days** to reply and reopen the ticket  
-- After 7 days, submit a new ticket referencing the original number  
+- Second reminder after **5 business days**  
+- Ticket closes after **10 business days** with no response  
+
 
 ---
 
