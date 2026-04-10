@@ -9,8 +9,8 @@ This repository showcases a curated collection of technical documentation sample
 
 User Guides provide step-by-step instructions to help end users understand and operate a product, feature, or workflow.
 
-- <a href="SLC User Guide.pdf">Student Level Corrections</a>
-- Policies & Procedures Review
+- Student Level Corrections - Example - TBD
+
 
 These guides focus on clarity, accessibility, and user success.
 
