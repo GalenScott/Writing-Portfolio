@@ -1,6 +1,6 @@
 # CEPI Zendesk Support Guide
 
-This documentation provides a clear, step-by-step reference for using Zendesk to submit and manage support requests for CEPI (MI School Data). It is based on the official support process provided by Level Data.
+This documentation provides a clear, step-by-step reference for using Zendesk to submit and manage support requests for [Customer]. It is based on the official support process provided by [Company].
 
 ## What You’ll Find Here
 
