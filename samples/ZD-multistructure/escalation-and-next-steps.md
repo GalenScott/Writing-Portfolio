@@ -5,7 +5,7 @@ Once your ticket is reviewed, Support may escalate it to the Product team if dee
 Escalation includes:
 
 - Creating Jira tickets  
-- Coordinating with MSD engineers  
+- Coordinating with engineers  
 - Providing updates through Zendesk  
 
 Support may keep the ticket open for up to **2 weeks** to continue providing updates.
@@ -14,9 +14,9 @@ Support may keep the ticket open for up to **2 weeks** to continue providing upd
 
 ## What Happens After Setup
 
-Once your CEPI support page is configured:
+Once you [Customer] support page is configured:
 
-- Level Data will finalize your support form  
+- [Company] will finalize your support form  
 - Engineers will begin training and working tickets  
 - You will receive a walkthrough of the support page  
 
