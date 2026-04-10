@@ -31,7 +31,7 @@ Include all relevant information:
 
 - Issue summary  
 - Steps to reproduce  
-- Environment (Prod, UAT, etc.)  
+- Environment (Prod, Staging, UAT, etc.)  
 - User/role impacted  
 - Acceptance criteria  
 - Screenshots or video links  
