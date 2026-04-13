@@ -1,4 +1,4 @@
-# Frederick Douglass learning Module
+# Frederick Douglass Learning Module
 
 This module is designed for placement in a GitHub /docs folder. It provides a structured, classroom-ready lesson plan based on the life and work of Frederick Douglass prior to the Civil War.
 
