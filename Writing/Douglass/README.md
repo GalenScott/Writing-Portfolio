@@ -65,7 +65,7 @@ A structured outline summarizing the Frederick Douglass reading.
 
 ---
 
-##  [Student Handout](handout-fd.md)
+##  Student Handout
 
 A printable or digital handout summarizing:
 
