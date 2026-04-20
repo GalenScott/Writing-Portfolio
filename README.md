@@ -9,8 +9,9 @@
 - Research notes, articles, and documentation
 
 **Accessibility Documentation Initiative**
-
-This was an initiative to research, design, and deliver a company‑wide Accessibility Presentation and testing framework. The initiative was created to increase organizational alignment around accessibility standards, improve product quality, and ensure all Level Data products meet or exceed WCAG 2.1 and 2.2 guidelines.
+<details>
+<summary>Click for description</summary> 
+This was an initiative to research, design, and deliver a company‑wide Accessibility Presentation and testing framework. The initiative was created to increase organizational alignment around accessibility standards, improve product quality, and ensure all Level Data products meet or exceed WCAG 2.1 and 2.2 guidelines.</details>
 
 A sample of documents and the presentation area available, however the Confluane network of documentation is not available to share outside of Level Data.
 - [Accessibility Project Overview](accessibility/README.md)
