@@ -12,7 +12,7 @@ User Guides provide step-by-step instructions to help end users understand and o
 - Student Level Corrections - Example - TBD
 
 
-[!TIP] These guides focus on clarity, accessibility, and user success.
+<B>These guides focus on clarity, accessibility, and user success.</B>
 
 ---
 ##  Tutorials, How-Tos and Education documentation
@@ -27,7 +27,7 @@ How-To Guides provide direct approach to the information, using step-by-step dir
   * [Testing Guides & Key Concepts](../accessibility/A11y_Testing_Key_Concepts.md)
 - [How to Use Zendesk for Customers](ZD-multistructure/README.md) (streamlined example to show multi-page doc structure in GitHub)
 
-[!TIP] These guides focus on clarity, accessibility, and user success.
+<B>These guides focus on clarity, accessibility, and user success.</B>
 
 ---
 ## Source of Truth (SoT) Documents
@@ -44,7 +44,7 @@ Source of Truth documents serve as the authoritative reference for a process, sy
 - Versioning and change history  
 - Links to related documentation  
 
-[!TIP] These documents ensure consistency and alignment across teams.
+<B>These documents ensure consistency and alignment across teams.</B>
 
 ---
 ##  High-Level Workflow Overviews
@@ -60,7 +60,7 @@ High-Level Overviews explain how a system, process, or workflow functions from a
 - Inputs, outputs, and dependencies  
 - Cross-team touchpoints  
 
-[!TIP] These overviews help stakeholders quickly understand how a workflow operates without requiring deep technical detail.
+<B>These overviews help stakeholders quickly understand how a workflow operates without requiring deep technical detail.</B>
 
 ---
 
@@ -75,9 +75,7 @@ This repository may also include examples of:
 - Process Documentation  
 - Onboarding or training materials  
 
-[!TIP] Each example demonstrates best practices in clarity, structure, and technical accuracy.
+Each example demonstrates best practices in clarity, structure, and technical accuracy.</B>
 
----
 
-## 📁 Repository Structure
 
