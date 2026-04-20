@@ -4,7 +4,7 @@ This README provides a complete overview of all instructional materials related 
 
 ---
 
-## Reading Assignment: <a href="/Writing/Frederick Douglas_TPT.pdf">Article Excerpt</a>
+## Reading Assignment: <a href="Frederick Douglas_TPT.pdf">Article Excerpt</a>
 
 This excerpt introduces students to Frederick Douglass’s early life, escape from slavery, and rise as a leading abolitionist. It covers:
 
