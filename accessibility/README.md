@@ -1,5 +1,5 @@
 # Accessibility Initiative & Presentation  
-### Bringing COMPANY Products Into Consistent WCAG 2.1 & 2.2 Compliance
+### Bringing COMPANY Products Into Consistent WCAG 2.1 & 2.2 AA Compliance
 
 This repository documents the work completed to research, design, and deliver a company‑wide Accessibility Presentation and testing framework. The initiative was created to increase organizational alignment around accessibility standards, improve product quality, and ensure all Level Data products meet or exceed WCAG 2.1 and 2.2 guidelines.
 
