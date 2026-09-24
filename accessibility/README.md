@@ -8,7 +8,7 @@ A11y: Accessibility 'shortcut' naming convention
 
 ## Purpose of the Initiative
 
-The Problem: no consistency in how each Accessibility coding and testing was being done (if it was) for each product, and limited to no understanding of the time A11y testing takes, particularly for VPATS (Voluntary Product Accessibility Template) requested by Sales & Marketing for potential customers. Educating all departments needed to be done in a clear and efficient manner.
+The Problem: There is no consistency in how each Accessibility coding and testing was being done (if it was) for each product, and limited to no understanding of the time A11y testing takes, particularly for VPATS (Voluntary Product Accessibility Template) requested by Sales & Marketing for potential customers. Educating all departments needed to be done in a clear and efficient manner.
 
 The primary goal of this project was to build shared understanding, consistency, and confidence across Product, Engineering, and QA teams regarding:
 
